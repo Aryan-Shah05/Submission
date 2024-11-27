@@ -1,2 +1,2 @@
 # Submission
-Assignment are uploaded in differnt branches of this repository.
+Assignments are organized and uploaded across different branches within this repository.
